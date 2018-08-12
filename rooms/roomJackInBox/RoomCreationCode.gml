@@ -1,0 +1,1 @@
+objJack.visible := false;
